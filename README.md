@@ -12,7 +12,10 @@ Create an API call to DocuSign that creates a single DocuSign envelope that comb
 
 When prompted, please return your completed API calls to your recruiting coordinator.
 
-Please be prepared to discuss your progress during the technical portion of your interview, up to and including demonstrating functionality. If you were unsuccessful at any portion of this assessment, please be prepared to discuss the obstacles you encountered and the steps you attempted to move forward.
+NOTICE
+------
+
+<b>Please be prepared to discuss your progress during the technical portion of your interview, up to and including demonstrating functionality. If you were unsuccessful at any portion of this assessment, please be prepared to discuss the obstacles you encountered and the steps you attempted to move forward.</b>
 
 
 RESOURCES
