@@ -15,8 +15,8 @@ When prompted, please return your completed API calls to your recruiting coordin
 Please be prepared to discuss your progress during the technical portion of your interview, up to and including demonstrating functionality. If you were unsuccessful at any portion of this assessment, please be prepared to discuss the obstacles you encountered and the steps you attempted to move forward.
 
 
-Resources
-
+RESOURCES
+---------
 
 <a href="https://go.docusign.com/sandbox/productshot/">DocuSign Dev Sandbox</a>
 
