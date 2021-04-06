@@ -13,3 +13,13 @@ Create an API call to DocuSign that creates a single DocuSign envelope that comb
 When prompted, please return your completed API calls to your recruiting coordinator.
 
 Please be prepared to discuss your progress during the technical portion of your interview, up to and including demonstrating functionality. If you were unsuccessful at any portion of this assessment, please be prepared to discuss the obstacles you encountered and the steps you attempted to move forward.
+
+
+Resources
+
+
+<a href="https://go.docusign.com/sandbox/productshot/">DocuSign Dev Sandbox</a>
+
+<a href="https://developers.docusign.com/docs/esign-rest-api/reference/">API Reference</a>
+
+<a href="https://www.docusign.com/blog/dsdev-please-mr-postman">DocuSign Postman Collection</a>
