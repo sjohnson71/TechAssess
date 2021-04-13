@@ -4,11 +4,11 @@ This repository contains the materials for the Technical Customer Success Manage
 
 Please utilize the contents of this repository to complete the following tasks:
 
-Modify the API call in <b>API TEST 1</b> to send successfully.
+1) Modify the API call in <b>API TEST 1</b> to send successfully.
 
-Modify the API call in <b>API TEST 2</b> to send succesffully.
+2) Attempt to make the API call in <b>API TEST 2</b> succesffully. Be prepared to explore this scenario in-depth during your technical interview.
 
-Create an API call to DocuSign that creates a single DocuSign envelope that combines the templates <b>TestJSON1</b> and <b>TestJSON2</b> and is directed to the following recipients: John Doe, johndoe@test.test and Jane Doe, janedoe@test.test.
+3) Create a succesfull API call to DocuSign that creates a single DocuSign envelope that combines the templates <b>TestJSON1</b> and <b>TestJSON2</b> and is directed to the following recipients: John Doe, johndoe@test.test and Jane Doe, janedoe@test.test.
 
 When prompted, please return your completed API calls to your recruiting coordinator.
 
