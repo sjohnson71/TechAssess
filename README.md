@@ -6,7 +6,7 @@ Please utilize the contents of this repository to complete the following tasks:
 
 1) Modify the API call in <b>API TEST 1</b> to send successfully.
 
-2) Attempt to make the API call in <b>API TEST 2</b> succesffully. Be prepared to explore this scenario in-depth during your technical interview.
+2) Attempt to make the API call in <b>API TEST 2</b> succesfully. Be prepared to explore this scenario in-depth during your technical interview.
 
 3) Create a succesfull API call to DocuSign that creates a single DocuSign envelope that combines the templates <b>TestJSON1</b> and <b>TestJSON2</b> and is directed to the following recipients: John Doe, johndoe@test.test and Jane Doe, janedoe@test.test.
 
