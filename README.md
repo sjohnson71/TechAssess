@@ -1,6 +1,6 @@
 # Technical Assessment
 
-This repository contains the materials for the Technical Customer Success Manager candidate technical assessment.
+This repository contains the materials for the DocuSign Global Customer Support candidate technical assessment.
 
 Please utilize the contents of this repository to complete the following tasks:
 
